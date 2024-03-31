@@ -3,7 +3,11 @@ The Mini Amazon Sales Analyzer is a Python mini-project created for learning and
 
 # Acknowledgements
 NumPy
+
 Pandas
+
 Matplotlib
+
 Seaborn
+
 Jupyter Notebook
