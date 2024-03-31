@@ -1,5 +1,6 @@
 # Python-Amazon-Sales-Analysis
-This Python mini-project designed to analyze sales data from Amazon using Matplotlib, NumPy, and Pandas. This project aims to provide basic insights into sales trends and product performance through simple visualizations and statistical analysis.
+The Mini Amazon Sales Analyzer is a Python mini-project created for learning and practicing the usage of NumPy, Matplotlib, and Pandas. This project provides a hands-on opportunity to explore these powerful Python libraries by analyzing sample sales data from Amazon.
+
 # libraries 
  Matplotlib
  
